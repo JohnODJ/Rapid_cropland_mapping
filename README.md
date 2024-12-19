@@ -88,6 +88,7 @@ Illustrates how NDVI stacks are used to distinguish cropland from non-cropland.
 
 ### Figure 2: NDVI Signatures for Different Land Uses
 Shows NDVI patterns for cropland and other land-use types.
+![Figure 2](https://github.com/user-attachments/assets/da6ea5ed-37d4-4a93-80e7-80459682607b)
 
 ### Figure 3: Final Classified Image
 Displays the output cropland and non-cropland classifications.
