@@ -93,5 +93,3 @@ Displays the output cropland and non-cropland classifications.
 
 ---
 
-
-"# Rapid_cropland_mapping" 
