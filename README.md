@@ -84,6 +84,7 @@ The classification process includes two classes:
 
 ### Figure 1: Using Stacked NDVI Images
 Illustrates how NDVI stacks are used to distinguish cropland from non-cropland.
+![Figure 1](https://github.com/user-attachments/assets/212d3b8d-0139-4d71-91d2-591dca2780eb)
 
 ### Figure 2: NDVI Signatures for Different Land Uses
 Shows NDVI patterns for cropland and other land-use types.
