@@ -92,6 +92,7 @@ Shows NDVI patterns for cropland and other land-use types.
 
 ### Figure 3: Final Classified Image
 Displays the output cropland and non-cropland classifications.
+![Figure 3](https://github.com/user-attachments/assets/5c189835-2103-49af-957e-0b30baf88871)
 
 ---
 
