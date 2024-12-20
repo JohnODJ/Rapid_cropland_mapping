@@ -100,7 +100,7 @@ Export.image.toDrive({
 
 
 
-// Assuming 'crop' and 'other' are your FeatureCollections
+// Exporting the labels created using Geometry Imports to Assets
 Export.table.toAsset(crop, 
   'crop_narok', 
   'projects/ee-classes24/assets/crop_narok', 
@@ -112,6 +112,3 @@ Export.table.toAsset(other,
   'projects/ee-classes24/assets/other_narok', 
   10 // Adjust maxVertices as needed
 );
-
-// Start the tasks
-Export.start();
