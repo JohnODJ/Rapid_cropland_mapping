@@ -70,7 +70,7 @@ This document provides a summary of the methodology used to classify cropland an
 ### Code and Tools
 - Platform: Google Earth Engine.
 - Programming: JavaScript API in Earth Engine Code Editor.
-- Outputs: GeoTIFF classified image and a README.md file.
+- Outputs: GeoTIFF classified image
 
 ### Recommended Practices
 - Use high-quality training data for better classification accuracy.
