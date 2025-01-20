@@ -2,7 +2,7 @@
 
 **Prepared by:** John Jaoko  
 **Date:** 27/06/2024  
-
+**Google Earth Engine Link:** https://code.earthengine.google.com/63e72f6a831e5470a997038d2238f9ad
 ---
 
 ## Overview
