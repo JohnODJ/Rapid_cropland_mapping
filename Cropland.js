@@ -87,6 +87,9 @@ var classified = stackedNDVI.classify(classifier, 'Classified');
 var classified1 = classified.updateMask(classified.eq(1));
 Map.addLayer(classified1, {palette: ['yellow'], min: 0, max: 1}, 'Classified');
 
+
+Map.centerObject(aoi1, 10);
+
 // Export the classified image
 Export.image.toDrive({
   image: classified1.clip(aoi1),
@@ -96,8 +99,6 @@ Export.image.toDrive({
   scale: 30,
   crs: 'EPSG:4326'
 });
-
-
 
 
 // Exporting the labels created using Geometry Imports to Assets
